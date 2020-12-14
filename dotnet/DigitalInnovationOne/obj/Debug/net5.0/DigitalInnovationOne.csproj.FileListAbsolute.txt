@@ -1,0 +1,16 @@
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.exe
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.deps.json
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.json
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.dev.json
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.dll
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\bin\Debug\net5.0\ref\DigitalInnovationOne.dll
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.pdb
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csprojAssemblyReference.cache
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfo.cs
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.dll
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\obj\Debug\net5.0\ref\DigitalInnovationOne.dll
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.pdb
+D:\BootCampDecolaDev\dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.genruntimeconfig.cache
